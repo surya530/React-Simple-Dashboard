@@ -35,6 +35,8 @@ let Profile : React.FC<any> =  (_props)=>{
 
               <button className="w-full text-white font-bold rounded mt-2 p-2 bg-sky-600 dark:bg-slate-600 dark:hover:bg-slate-600/80 hover:bg-sky-600/80 " >Save</button>
 
+      {/* surya */}
+
     </React.Fragment>
   )
 
